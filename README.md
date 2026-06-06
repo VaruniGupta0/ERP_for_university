@@ -2,7 +2,7 @@
 
 A robust, secure desktop Enterprise Resource Planning (ERP) application engineered to manage academic workflows across an institution. Developed over an 8-week cycle, this system provides distinct portals for Students, Instructors, and Administrators. It features a strict layered architecture, a dual-database security model utilizing UNIX shadow-style authentication, and automated data reporting.
 
-
+##  Demo Video Link :- https://drive.google.com/file/d/1vzzTYRRGU8W79LPxqGZovQdYthBiOP1B/view?usp=sharing
 
 ##  System Architecture & Design Patterns
 
